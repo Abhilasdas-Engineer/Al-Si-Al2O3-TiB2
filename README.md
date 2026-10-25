@@ -1,2 +1,2 @@
 # Al-Si-Al2O3-TiB2
-Fabrication and characterization of Al-Si / Al2O3-TiB2 hybrid metal-matrix composites.
+Synthesis and Mechanical Characterization of Al-Si / Al₂O₃-TiB₂ Hybrid Metal Matrix Composites
